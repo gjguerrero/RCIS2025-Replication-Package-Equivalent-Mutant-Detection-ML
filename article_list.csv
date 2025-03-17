@@ -1,0 +1,116 @@
+TITLE,YEAR,COMMENT,LINK
+A correlation study between automated program repair and test-suite metrics,2018,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s10664-017-9552-y
+A Cost-effective and Machine-learning-based method to identify and cluster redundant mutants in software mutation testing,2024,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s11227-024-06107-8
+A Fault Injection Based Approach to Assessment of Quality of Test Sets for BPEL Processes,2013,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-642-54092-9_6
+A Framework for Mutant Genetic Generation for WS-BPEL,2009,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-540-95891-8_23
+A machine learning approach for classification of equivalent mutants,2020,Selected,https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2238
+A Mutation-Guided Assessment of Acceleration Approaches for Continuous Integration: An Empirical Study of YourBase,2024,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/10555653/
+A novel use of equivalent mutants for static anomaly detection in software artifacts,2017,Does not apply AI,https://www.sciencedirect.com/science/article/pii/S0950584916300180
+A partial oracle for uniformity statistics,2019,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s11219-019-09459-0
+A Preliminary Investigation into Using Machine Learning Algorithms to Identify Minimal and Equivalent Mutants,2020,Selected,https://ieeexplore.ieee.org/document/9155955/
+An Empirical Evaluation of Manually Created Equivalent Mutants,2024,Does not apply AI,https://ieeexplore.ieee.org/iel8/10675728/10675737/10675745.pdf
+An Evaluation of Internal Program Metrics as Predictors of Mutation Operator Score,2019,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3356317.3356323
+An Evolutionary Algorithm and a Clustering Technique to Select Good Subsets of Test for Finite State Machines,2024,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-031-70259-4_13
+An Improved Crow Search Algorithm for Test Data Generation Using Search-Based Mutation Testing,2020,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s11063-020-10288-7
+An Integrated Automatic Test Data Generation System,1991,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/BF02262722
+Angels and monsters: an empirical investigation of potential test effectiveness and efficiency improvement from strongly subsuming higher order mutation,2014,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/2642937.2643008
+Applying Many-objective Algorithms to the Variability Test of Software Product Lines,2020,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3425174.3425211
+Applying the meta-heuristic algorithms for mutation-based test data generation for Simulink models,2014,Does not detect equivalent mutants,https://www.semanticscholar.org/paper/31a306bded9a62114540a777fb2d7d88d390e56d
+Attacklets to Test Anomaly Detectors for Critical Infrastructure,2021,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-030-81645-2_13
+Augmenting Equivalent Mutant Dataset Using Symbolic Execution,2022,Selected,https://ieeexplore.ieee.org/document/9787929/
+Automatic Classification of Equivalent Mutants in Mutation Testing of Android Applications,2022,Selected,https://www.mdpi.com/2073-8994/14/4/820
+Automatic Equivalent Mutants Classification Using Abstract Syntax Tree Neural Networks,2021,Selected,https://ieeexplore.ieee.org/document/9440145/
+Automatic Test Data Generation by Multi-objective Optimisation,2006,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/11875567_32
+Balancing Effectiveness and Flakiness of Non-Deterministic Machine Learning Tests,2023,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/10172715/
+Bayesian-learning based guidelines to determine equivalent mutants,2002,Not available,https://www.worldscientific.com/doi/abs/10.1142/S021819400200113X?srsltid=AfmBOoo1eQw1kQf2hT5vtNk97bLbywmpDEYQm_tKN3SJ8yvpbJff0pvo
+Can testedness be effectively measured?,2016,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/2950290.2950324
+Cerebro: Static Subsuming Mutant Selection,2023,Does not detect equivalent mutants,https://www.computer.org/csdl/journal/ts/2023/01/09677967/1A4SyVTjzhu
+Chasing Mutants,2020,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-030-29509-7_12
+Deep Learning Based Automatic Classification of Mutants in Mutation Tests of Test Suite Generation,2022,Added via snowballing; discontinued from Scopus in 2022 due to quality concerns; not considered scientific in the Norwegian Scientific Index.,https://www.neuroquantology.com/media/article_pdfs/7465-7473.pdf
+Deep learning library testing via effective model generation,2020,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3368089.3409761
+Deep Parameter Optimisation,2015,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/2739480.2754648
+DeepMetis: Augmenting a Deep Learning Test Set to Increase Its Mutation Score,2022,Does not detect equivalent mutants,https://ieeexplore.ieee.org/iel7/9678507/9678392/09678764.pdf
+DeepMutation: Mutation Testing of Deep Learning Systems,2018,Does not detect equivalent mutants,https://www.computer.org/csdl/proceedings-article/issre/2018/832100a100/17D45W1Oa1G
+Detecting Trivial Mutant Equivalences via Compiler Optimisations,2018,Does not apply AI,https://ieeexplore.ieee.org/abstract/document/7882714/
+Effective Mutants’ Classification for Mutation Testing of Smart Contracts,1997,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-981-99-5881-8_21
+Effective Software Mutation-Test Using Program Instructions Classification,2023,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s10836-023-06089-0
+Empirical Study of Meta-learning-Based Approach for Predictive Mutation Testing,2022,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-981-99-5974-7_50
+Employing Dynamic Symbolic Execution for Equivalent Mutant Detection,2019,Does not apply AI,https://ieeexplore.ieee.org/document/8894112
+EMVille: A gamification-based approach to address the equivalent mutant problem,2017,Does not apply AI,https://ieeexplore.ieee.org/document/8167900/
+Equivalent mutant identification using hybrid wavelet convolutional rain optimization,2021,Selected,https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3038
+Equivalent Mutants Detection Based on Weighted Software Behavior Graph,2022,Not available,https://www.worldscientific.com/doi/10.1142/S0218194022500322?srsltid=AfmBOora8i8wHD8oidtE9pLH87bICU57T3UIpz1PhVJSEYDwnpzKTZ8U
+Equivalent Mutants in the Wild: Identifying and Efficiently Suppressing Equivalent Mutants for Java Programs,2024,Does not apply AI,https://dl.acm.org/doi/10.1145/3650212.3680310
+Evaluating Mutation Operator and Test Case Effectiveness by Means of Mutation Testing,2021,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-030-73280-6_66
+Evaluating non-adequate test-case reduction,2016,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/7582741/
+Evaluation of alternative design choices for evolutionary mutation testing by means of automated configuration,2022,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s11219-020-09530-1
+Evaluation of the Prediction-Based Approach to Cost Reduction in Mutation Testing,2018,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-319-99996-8_31
+Experimental results from an automatic test case generator,1993,Does not apply AI,https://dl.acm.org/doi/10.1145/151257.151258
+Exploring the Fundamentals of Mutations in Deep Neural Networks,2024,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3652620.3687426
+ExpressAPR: Efficient Patch Validation for Java Automated Program Repair Systems,2024,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/10298419/
+Faster mutation analysis via equivalence modulo states,2017,Does not apply AI,https://dl.acm.org/doi/10.1145/3092703.3092714
+Faster Mutation Analysis with Fewer Processes and Smaller Overheads,2022,Does not apply AI,https://ieeexplore.ieee.org/document/9678827
+Fault Detection Context Based Equivalent Mutant Identification Algorithm,2022,Not available,https://www.worldscientific.com/doi/10.1142/S0218194022500322?srsltid=AfmBOorEf-LmjZ97S0-DSRaCxpcxKJYrkAGflnMzy1NzkRfeUb35oeM1
+FlakiMe: laboratory-controlled test flakiness impact assessment,2022,Does not detect equivalent mutants,https://mpapad.github.io/publications/pdfs/ICSE22___Flakime.pdf
+Formal Verification of Developer Tests: A Research Agenda Inspired by Mutation Testing,2020,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-030-61470-6_2
+Fuzzing for CPS Mutation Testing,2024,Does not detect equivalent mutants,https://conf.researchr.org/details/ase-2023/ase-2023-papers/34/Fuzzing-for-CPS-Mutation-Testing
+Genetic Improvement using Higher Order Mutation,2015,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/2739482.2768417
+Guiding Greybox Fuzzing with Mutation Testing,2023,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3597926.3598107
+Higher Order Mutation Testing to Drive Development of New Test Cases: An Empirical Comparison of Three Strategies,2016,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-662-49381-6_23
+How verified is my code? falsification-driven verification,2015,Does not detect equivalent mutants,http://ieeexplore.ieee.org/document/7372062/
+iBiR: Bug-Report-Driven Fault Injection,2023,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3542946
+Identifying Mutation Subsumption Relations,2021,Does not apply AI,https://ieeexplore.ieee.org/document/9286021/
+Improved Genetic Algorithm to Reduce Mutation Testing Cost,2017,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/7870579/
+Improving random test sets using the diversity oriented test data generation,2007,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/1292414.1292419
+Inferring Mutant Utility from Program Context,2017,Does not apply AI,https://dl.acm.org/doi/10.1145/3092703.3092732
+Investigating the Effectiveness of Mutation Testing Tools in the Context of Deep Neural Networks,2019,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-030-20521-8_63
+Is Higher Order Mutant Harder to Kill Than First Order Mutant? An Experimental Study,2018,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-319-75417-8_62
+Is the Stack Distance Between Test Case and Method Correlated With Test Effectiveness?,2019,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3319008.3319021
+Large Language Models for Equivalent Mutant Detection: How Far Are We?,2024,Selected,https://dl.acm.org/doi/10.1145/3650212.3680395
+Leveraging Mutants for Automatic Prediction of Metamorphic Relations Using Machine Learning,2019,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3340482.3342741
+Leveraging Program Equivalence for Adaptive Program Repair: Models and First Results,2013,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/6693094/
+MATTER: A tool for generating end-to-end IoT test scripts,2022,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s11219-021-09565-y
+Model-Based Mutation Testing of Hybrid Systems,2009,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-642-17071-3_12
+Modelling genetic improvement landscapes with local optima networks,2017,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3067695.3082518
+MuDelta: Delta-Oriented Mutation Testing at Commit Time,2021,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/9402071/
+Multiple objective test set selection for software product line testing: evaluating different preference-based algorithms,2018,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3266237.3266275
+MUPPET: Optimizing Performance in OpenMP via Mutation Testing,2024,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3649169.3649246
+Muskit: a mutation analysis tool for quantum software testing,2022,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/9678563
+Muta-Pro: Towards the definition of a mutation testing process,2006,Does not detect equivalent mutants,https://journal-bcs.springeropen.com/articles/10.1007/BF03192394
+MutaBot: A Mutation Testing Approach for Chatbots,2024,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3639478.3640032
+Mutant Selection Strategies in Mutation Testing,2023,Does not apply AI,https://ieeexplore.ieee.org/document/10114663
+MutantBench: an Equivalent Mutant Problem Comparison Framework,2021,Selected,https://ieeexplore.ieee.org/document/9440157
+Mutation analysis for Coq,2020,Does not apply AI,https://ieeexplore.ieee.org/document/8952421/
+Mutation analysis for evaluating code translation,2024,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s10664-023-10385-w
+Mutation Operators for Cognitive Agent Programs,2013,Does not detect equivalent mutants,https://dl.acm.org/doi/10.5555/2484920.2485109
+Mutation Sampling Technique for the Generation of Structural Test Data,2005,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/1395724/
+Mutation Testing for Jason Agents,2014,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-319-14484-9_16
+Mutation Testing for Task-Oriented Chatbots,2024,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3661167.3661220
+Mutation Testing in Evolving Systems: Studying the Relevance of Mutants to Code Evolution,2023,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3530786
+Mutation-based fault localization for real-world multilingual programs,2015,Does not detect equivalent mutants,http://ieeexplore.ieee.org/document/7372034/
+Mutation-Based Fault Localization of Deep Neural Networks,2024,Does not detect equivalent mutants,https://www.computer.org/csdl/proceedings-article/ase/2023/299600b301/1SBGryufqzS
+Neural-Based Test Oracle Generation: A Large-Scale Evaluation and Lessons Learned,2023,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3611643.3616265
+On the limits of mutation reduction strategies,2016,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/7886930/
+On the possibilities of (pseudo-) software cloning from external interactions,2008,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s00500-007-0215-6
+On the use of commit-relevant mutants,2022,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s10664-022-10138-1
+On the Utility of Dominator Mutants for Mutation Testing,2016,Does not apply AI,https://dl.acm.org/doi/10.1145/2950290.2983950
+Operator-based and random mutant selection: better together,2013,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/6693070/
+Predicting mutation score using source code and test suite metrics,2012,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/6227969
+Predicting the Fault Revelation Utility of Mutants,2018,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3183440.3195031
+Predictive Mutation Testing,2016,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/8304576/
+Prioritizing mutants to guide mutation testing,2022,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/9793974/
+ProFL: a fault localization framework for Prolog,2020,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3395363.3404367
+Put Your Hands In The Air! Reducing Manual Effort in Mutation Testing,2022,Does not apply AI,https://dl.acm.org/doi/10.1145/3555228.3555233
+Selecting fault revealing mutants,2020,Does not detect equivalent mutants,https://link.springer.com/article/10.1007/s10664-019-09778-7
+Selection and Evaluation of Test Data Based on Genetic Programming,2003,Does not detect equivalent mutants,https://link.springer.com/article/10.1023/A:1023772729494
+Software mutational robustness,2013,Does not detect equivalent mutants,https://squareslab.github.io/papers-repo/pdfs/weimer-gpem2013-robust.pdf
+SRCIROR: A Toolset for Mutation Testing of C Source Code and LLVM Intermediate Representation,2018,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/9000094/
+Static and Dynamic Comparison of Mutation Testing Tools for Python,2024,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3701625.3701659
+Strong Mutation-Based Test Data Generation Using Hill Climbing,2016,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/7810707/
+TCE+: An Extension of the TCE Method for Detecting Equivalent Mutants in Java Programs,2017,Does not detect equivalent mutants,https://link.springer.com/chapter/10.1007/978-3-319-68972-2_11
+Test case generation from natural language requirements based on SCR specifications,2013,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/2480362.2480591
+Trustable Components: Yet Another Mutation-Based Approach,2013,Does not apply AI,https://inria.hal.science/hal-00777468/document
+What are we really testing in mutation testing for machine learning? a critical reflection,2021,Does not detect equivalent mutants,https://research.tudelft.nl/files/95548898/What_Are_We_Really_Testing_in_Mutation_Testing_for_Machine_Learning_A_Critical_Reflection.pdf
+What Makes Killing a Mutant Hard,2016,Does not apply AI,https://dl.acm.org/doi/10.1145/2970276.2970345
+Which Software Faults Are Tests Not Detecting?,2020,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3383219.3383236
+𝜇Akka: Mutation Testing for Actor Concurrency in Akka using Real-World Bugs,2023,Does not detect equivalent mutants,https://dl.acm.org/doi/10.1145/3611643.3616362
+μMT: a data mutation directed metamorphic relation acquisition methodology,2016,Does not detect equivalent mutants,https://ieeexplore.ieee.org/document/7811324/
